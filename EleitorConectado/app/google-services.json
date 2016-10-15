@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "505209445404",
+    "firebase_url": "https://marcelorodrigues-283f6.firebaseio.com",
+    "project_id": "marcelorodrigues-283f6",
+    "storage_bucket": "marcelorodrigues-283f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505209445404:android:318f19f7c5aee25c",
+        "android_client_info": {
+          "package_name": "com.coffesoft.cmd.eleitorconectado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505209445404-rtgns9b8hojj3255kbc3ne441kn9e943.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffesoft.cmd.eleitorconectado",
+            "certificate_hash": "9E8CF1E88DE442F942EAC306DF57340145998BD2"
+          }
+        },
+        {
+          "client_id": "505209445404-98qq58b8818urd783bt1mkcsj49sv0j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYWOaHJF1KBn318DqQgLNLrXJ8-F3XRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

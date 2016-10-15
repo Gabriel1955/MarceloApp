@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppEleitorConectado" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_material_light</item>
+        <item name="android:windowBackground">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorPrimary">@color/primary_text_material_light</item>
+    </style>
+
+</resources>
